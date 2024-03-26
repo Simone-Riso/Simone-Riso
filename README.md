@@ -2,9 +2,7 @@ Hey, I'm Simone👋🏽
 I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end development and artificial intelligence.
 
 📦 Toolbox
-Version Control: Git, GitHub
-
-Learning: Java, Javascript, C, 
+Learning: Java
 
 ✨ Fun Facts
 I really like Japan and is my dream to visit it one day.
