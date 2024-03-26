@@ -19,7 +19,7 @@
 
 <br>
 
-**📫 Reach me on Instagram: simone_riso**
+**📫 Reach me on Linkedin: Simone Riso**
 
 <p align="center">
 </p>
