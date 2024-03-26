@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw31A7WqeGrQgAeu-_xO8Ma_&ust=1711556784053000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNie74KskoUDFQAAAAAdAAAAABAs<h1 align="center">Hey, I'm Simone👋🏽</h1>
+<h1 align="center">Hey, I'm Simone👋🏽</h1>
 <h3 align="center">I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end development and artificial intelligence.</h3>
 <br>
 ✨ Fun Facts 
