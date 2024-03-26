@@ -4,7 +4,9 @@
 - 🌱 I’m learning **Java**
 
 
-- ✨ Fun Facts **I really like Japan culture and is my dream to visit Japan one day.**
+- ✨ Fun Facts
+
+**I really like Japan culture and is my dream to visit Japan one day.**
 **For the weebs, my favourite anime is boku no hero academia,**
 **and my favourite manga is Planetes 🪐🪐🪐.**
 **As a kid, I wanted to be an astronaut 🧑‍🚀🧑‍🚀.
