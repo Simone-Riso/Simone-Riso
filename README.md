@@ -25,9 +25,6 @@
 **Linkedin: Simone Riso**
 <br>
 **Instagram: simone_riso**
-<br>
-**Email: ez.simone.riso@gmail.com**
-
 
 <p align="center">
 </p>
