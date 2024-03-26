@@ -4,7 +4,8 @@
 
 <br>
 ✨ Fun Facts 
-<br><br>
+<br>
+<br>
 
 **I really like Japan culture and is my dream to visit Japan one day.**
 <br>
@@ -19,7 +20,14 @@
 
 <br>
 
-**📫 Reach me on Linkedin: Simone Riso**
+**📫 You can reach me on:**
+
+**Linkedin: Simone Riso**
+<br>
+**Instagram: simone_riso**
+<br>
+**Email: ez.simone.riso@gmail.com**
+
 
 <p align="center">
 </p>
