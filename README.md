@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Simone👋🏽</h1>
 <h3 align="center">I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end development and artificial intelligence.</h3>
 
-- 🌱 I’m currently learning **Java and Python**
-
-- 📫 How to reach me **Email: ez.simone.riso@gmail.com**
+- 🌱 I’m learning **Java and Python**
 
 - ✨ Fun Facts **I really like Japan culture and is my dream to visit Japan one day. For the weebs, my favourite anime is boku no hero academia, and my favourite manga is Planetes 🪐🪐🪐. As a kid, I wanted to be an astronaut 🧑‍🚀🧑‍🚀. I love to code and I've always thought that I'm born to code.**
+
+- - 📫 How to reach me **Email: ez.simone.riso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
