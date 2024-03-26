@@ -5,6 +5,7 @@ I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end d
 📦 Toolbox
 
 Version Control Sistem: Git, GitHub.
+
 Learning: Java, Phyton.
 Learned: Javascript, NodeJS, C, HTML.
 
