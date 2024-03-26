@@ -1,16 +1,19 @@
-### Hi there 👋
+Hey, I'm Simone👋🏽
+I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end development and artificial intelligence.
 
-<!--
-**Simone-Riso/Simone-Riso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📦 Toolbox
+Version Control: Git, GitHub
 
-Here are some ideas to get you started:
+Learning: Java, Javascript, C, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Fun Facts
+I really like Japan and is my dream to visit it one day.
+For the weebs, my favourite anime is boku no hero academia,
+and my favourite manga is Planetes 🪐🪐🪐.
+
+As a kid, I wanted to be an astronaut 🧑‍🚀🧑‍🚀.
+I love to code and I've always thought that I'm born to code.
+
+📫 Contact
+Instagram: @simone_riso
+Email: ez.simone.riso@gmail.com
