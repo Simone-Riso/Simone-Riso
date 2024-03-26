@@ -4,11 +4,13 @@ I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end d
 
 📦 Toolbox
 
-Learning: Java
+Version Control Sistem: Git, GitHub.
+Learning: Java, Phyton.
+Learned: Javascript, NodeJS, C, HTML.
 
 ✨ Fun Facts
 
-I really like Japan and is my dream to visit it one day.
+I really like Japan culture and is my dream to visit Japan one day.
 For the weebs, my favourite anime is boku no hero academia,
 and my favourite manga is Planetes 🪐🪐🪐.
 
