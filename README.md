@@ -19,7 +19,7 @@
 
 <br>
 
-**📫 How to reach me Email: ez.simone.riso@gmail.com**
+**📫 Reach me on Instagram: simone_riso**
 
 <p align="center">
 </p>
