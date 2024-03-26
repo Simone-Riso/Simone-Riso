@@ -4,20 +4,20 @@
 <h4 align="center">🌱 I’m learning **Java**</h4>
 
 
-- ✨ Fun Facts
+<h4 align="center">✨ Fun Facts</h4>
 
-  **I really like Japan culture and is my dream to visit Japan one day.**
+<h4 align="center">**I really like Japan culture and is my dream to visit Japan one day.**</h4>
   
-  **For the weebs, my favourite anime is boku no hero academia,**
+<h4 align="center">**For the weebs, my favourite anime is boku no hero academia,**</h4>
 
-  **and my favourite manga is Planetes 🪐🪐🪐.**
+<h4 align="center">**and my favourite manga is Planetes 🪐🪐🪐.**</h4>
   
-  **As a kid, I wanted to be an astronaut 🧑‍🚀🧑‍🚀.
+<h4 align="center">**As a kid, I wanted to be an astronaut 🧑‍🚀🧑‍🚀.</h4>
   
-  **I love to code and I've always thought that I'm born to code.**
+<h4 align="center">**I love to code and I've always thought that I'm born to code.**</h4>
 
 
-- - 📫 How to reach me **Email: ez.simone.riso@gmail.com**
+<h4 align="center">📫 How to reach me **Email: ez.simone.riso@gmail.com**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
