@@ -1,5 +1,5 @@
 Hey, I'm Simone👋🏽
-I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end development and artificial intelligence.
+\n I'm a 22-year-old Junior developer based in Italy, and I'm passionate back-end development and artificial intelligence.
 
 📦 Toolbox
 Learning: Java
